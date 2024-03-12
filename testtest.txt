@@ -1,3 +1,0 @@
-Test in git
-Change on local rep
-Change on remote rep
